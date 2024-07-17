@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 17 00:07:25 WEST 2024","Wed Jul 17 00:07:29 WEST 2024","4075","Default Suite","EBAY_ECOM_TESTING","EBAY_TESTCASE.EBAY_LOGIN","EBAY_TESTCASE.EBAY_LOGIN","login_INVALID","INVALID_CREEDS SCENARIO","Test Description : Type wrong creeds"
+"failed","Wed Jul 17 00:07:30 WEST 2024","Wed Jul 17 00:07:32 WEST 2024","2634","Default Suite","EBAY_ECOM_TESTING","EBAY_TESTCASE.EBAY_LOGIN","EBAY_TESTCASE.EBAY_LOGIN","Login_Valid","VALID CREEDS SCENARIO","Test Description : Type Correct creeds"
